@@ -25,15 +25,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi8825\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi8825&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi8825\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi8825&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Khushi8825\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Khushi8825&theme=radical)
 
 ---
 
