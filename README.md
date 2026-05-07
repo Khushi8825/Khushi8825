@@ -50,8 +50,8 @@
 ### 📌 Project 2: GROQI
 
 * 🔗 Repo: https://github.com/Khushi8825/GROQI
-* 💡 Description: Short explanation
-* ⚙️ Tech Used
+* 💡 Description: A full stack application, which allows user to track their daily health logs and provides a dashboard to visualize trends, identify pattern, and detect possible health risks.
+* ⚙️ Tech Used : React, Node.js, PostgreSQL, Groq API, Hugging Face Model, JWT
 
 ---
 
