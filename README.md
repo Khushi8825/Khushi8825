@@ -49,7 +49,7 @@
 ### 📌 Project 2: GROQI
 
 * 🔗 Repo: https://github.com/Khushi8825/GROQI
-* 💡 Description:GROQI is an emotion-aware AI platform that provides intelligent responses using advanced language models and Hugging Face emotion detection models.
+* 💡 Description: GROQI is an emotion-aware AI platform that provides intelligent responses using advanced language models and Hugging Face emotion detection models.
 Its UI dynamically changes based on the user’s emotions and risk level, creating a more personalized and adaptive user experience.
 * ⚙️ Tech Used : React, Node.js, PostgreSQL, Groq API, Hugging Face Model, JWT
 
@@ -58,7 +58,7 @@ Its UI dynamically changes based on the user’s emotions and risk level, creati
 ### 📌 Project 3: LEETMETRIC
 
 * 🔗 Repo: https://github.com/Khushi8825/Leetmetric
-* 💡 Description : LeetMetric is a web application that allows users to view LeetCode profile statistics in a clean and interactive UI. It fetches real-time data from a public API and displays progress using animated circular progress bars and summary cards for submissions.
+* 💡 Description: LeetMetric is a web application that allows users to view LeetCode profile statistics in a clean and interactive UI. It fetches real-time data from a public API and displays progress using animated circular progress bars and summary cards for submissions.
 * ⚙️ Tech Used : HTML, CSS, Javascript, Leetcode API
 
 ---
@@ -72,7 +72,7 @@ Its UI dynamically changes based on the user’s emotions and risk level, creati
 ---
 
 ## 📫 Connect With Me
-
+* email : khushisingh051211@gmail.com
 ---
 
 ⭐️ *Feel free to explore my repositories and connect!*
