@@ -8,16 +8,15 @@
 ## 🧠 About Me
 * 🔭 I’m currently working on **DSA & problem solving**
 * 🌱 Learning **C++, Web Development**
-* 🎯 Goal: Crack top tech companies
-* ⚡ Fun fact: I enjoy debugging more than writing code 😄
+* ⚡ Fun fact: I enjoy writing code 😄
   
 ---
 
 ## 🚀 Tech Stack
 
 ```bash
-💻 Languages: C++, JavaScript, Java, SQL
-🌐 Web: HTML, CSS, React, Node, Postgres, MongoDB  
+💻 Languages: C++, JavaScript, SQL
+🌐 Web: HTML, Tailwind CSS, React, Node, Postgres, MongoDB  
 🛠️ Tools: Git, GitHub, VS Code, Postman, Appwrite
 ```
 
@@ -42,7 +41,7 @@
 ### 📌 Project 1: The-Wellness-matrix
 
 * 🔗 Repo: https://github.com/Khushi8825/The-Wellness-Matrix
-* 💡 Description: Short explanation of what it does
+* 💡 Description: A full-stack application which allows usesr to track their daily health logs, and provides a dashboard to visualize trends, identify patterns, and detect potential risks.
 * ⚙️ Tech Used: C++ / React / etc.
 
 ---
@@ -50,7 +49,8 @@
 ### 📌 Project 2: GROQI
 
 * 🔗 Repo: https://github.com/Khushi8825/GROQI
-* 💡 Description: A full stack application, which allows user to track their daily health logs and provides a dashboard to visualize trends, identify pattern, and detect possible health risks.
+* 💡 Description:GROQI is an emotion-aware AI platform that provides intelligent responses using advanced language models and Hugging Face emotion detection models.
+Its UI dynamically changes based on the user’s emotions and risk level, creating a more personalized and adaptive user experience.
 * ⚙️ Tech Used : React, Node.js, PostgreSQL, Groq API, Hugging Face Model, JWT
 
 ---
@@ -58,8 +58,8 @@
 ### 📌 Project 3: LEETMETRIC
 
 * 🔗 Repo: https://github.com/Khushi8825/Leetmetric
-* 💡 
-* ⚙️ 
+* 💡 Description : LeetMetric is a web application that allows users to view LeetCode profile statistics in a clean and interactive UI. It fetches real-time data from a public API and displays progress using animated circular progress bars and summary cards for submissions.
+* ⚙️ Tech Used : HTML, CSS, Javascript, Leetcode API
 
 ---
 
