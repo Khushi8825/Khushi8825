@@ -43,7 +43,7 @@
 * 🔗 Repo: https://github.com/Khushi8825/GROQI
 * 💡 Description: GROQI is an emotion-aware AI platform that provides intelligent responses using advanced language models and Hugging Face emotion detection models.
 Its UI dynamically changes based on the user’s emotions and risk level, creating a more personalized and adaptive user experience.
-* ⚙️ Tech Used : React, Node.js, PostgreSQL, Groq API, Hugging Face Model, JWT
+* ⚙️ Tech Used : React, Node.js, PostgreSQL, Groq API, Hugging Face Model, JWT, OAuth 2.0
 
 ---
 
